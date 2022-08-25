@@ -1,0 +1,11 @@
+{
+  "name": "cark",
+  "version": "1.0.0",
+  "description": "cark",
+  "main": "app.js",
+  "scripts": {
+    "test": "node app.js"
+  },
+  "author": "Casperss",
+  "license": "ISC"
+}
